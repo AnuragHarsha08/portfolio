@@ -1,0 +1,44 @@
+.header {
+    width: 100%;
+    background-color: grey;
+    height: 340;
+}
+
+#name {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.personal_info {
+    float: left;
+    padding: 20;
+}
+
+.photo {
+    float: right;
+    padding: 20px;
+}
+
+.portfolio_body {
+    width: 100%;
+    background-color: teal;
+    color: white;
+}
+
+.body_container {
+    padding: 20px;
+}
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: black;
+}
